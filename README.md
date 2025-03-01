@@ -2,6 +2,14 @@
 
 Homework 5
 
+## Корисні ресурси для Homework 5
+
+Додаткові матеріали:
+
+- Ваша перша HTML форма - https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
+- Зміна кольору плейсхолдера на фокус: https://codepen.io/mpadalko/pen/JjvvMoE?editors=1100
+- Додавання нових іконок до існуючого спрайту https://www.loom.com/share/57e2b4fc812a469587eb3884ad2352c1
+
 ## Корисні ресурси для Homework 4
 
 - відео по реалізації псевдоелемента на перше посилання навігації https://www.loom.com/share/a400d7ef8dfe4c10b402967c38a5d5a3
