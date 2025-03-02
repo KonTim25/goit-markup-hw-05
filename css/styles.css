@@ -736,7 +736,7 @@ img {
 
 .modal-btn {
   display: block;
-  margin: 24px auto;
+  margin: 0 auto;
   border: none;
   border-radius: 4px;
   padding: 16px 32px;
